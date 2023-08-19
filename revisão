@@ -1,0 +1,39 @@
+Exercícios Níveis de Teste
+
+Afirmação correto ou errado
+O teste de unidade, cujo foco são as menores unidades do programa, como as funções, os procedimentos, os métodos ou as classes, somente pode ser realizado após a implantação de todas as unidades do programa.
+Errado
+
+Afirmação correto ou errado
+O teste de integração objetiva tanto a verificação da correta implantação dos requisitos funcionais quanto a dos requisitos não funcionais, como desempenho e vulnerabilidade.
+Correto
+
+O objetivo é executar o sistema sob o ponto de vista de seu usuário final, varrendo as funcionalidades em busca de falhas em relação aos objetivos originais. Os testes são executados em condições similares àquelas que um usuário utilizará no seu dia-a- dia de manipulação do sistema.
+A. Unidade.
+B. Integração.
+C. Sistema.
+D. x Aceitação.
+
+Indique se é verdadeiro ou falso:
+(  v  ) Os testes devem ser executados para mostrar a ausência de defeitos.
+( f   ) A equipe de testes é formada pelos programadores menos qualificados.
+(  v  ) Bugs custam mais para serem corrigidos quando o sistema está em operação/produção.
+(  v  ) O sistema está pronto quando o desenvolvedor termina de codificar.
+
+A MELHOR definição para teste de aceitação é:
+a. Garantir que o software entre sem erros na produção.
+b. Garantir que o grupo de testes fez um bom trabalho.
+c. Executar um teste funcional.
+d. x Garantir que o software esteja fazendo exatamente aquilo que foi solicitado nos requisitos de negócio.
+
+A quem cabe a responsabilidade pela execução do teste unitário?
+a. Testador.
+b x. Programador.
+c. Cliente.
+d. Analista de Requisitos.
+
+Como é feito o teste de sistema?
+a. Através de classes e métodos do sistema
+b. x Através da integração dos componentes de negócio
+c. Através da interface gráfica do usuário
+d. Através do banco de dados
